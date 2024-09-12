@@ -1,5 +1,4 @@
 # desafio-Leticia-Gobbi88-2024
-# Desafio 2024
 
 Este repositório contém a solução para o desafio de programação de 2024.
 
