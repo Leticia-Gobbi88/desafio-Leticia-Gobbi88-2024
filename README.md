@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RECINTOS DO ZOO
 
 ## COMO BAIXAR O CÓDIGO E SUBMETER MINHA SOLUÇÃO?
@@ -133,3 +134,29 @@ export { RecintosZoo as RecintosZoo };
 Se todos os passos forem seguidos corretamente, você terá um repositório como o da figura abaixo (lembrando que é permitido criar mais arquivos), onde `seuUsername` é o seu usuário do GitHub, que você informou no questionário da Gupy.
 
 ![Exemplo de repositório](https://startdbstorage.blob.core.windows.net/filecontainer/imagem-estrutura.png)
+=======
+# desafio-Leticia-Gobbi88-2024
+
+Este repositório contém a solução para o desafio de programação de 2024.
+
+## Como executar o projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seuUsername/desafio-seuUsername-2024.git
+   ```
+2. Navegue até o diretório:
+   ```bash
+   cd desafio-seuUsername-2024
+   ```
+
+3. Execute os testes para validar a solução:
+   ```bash
+   # Descreva o comando para executar os testes
+   ```
+
+## Informações adicionais
+
+- Descrição sobre o desafio.
+- Tecnologias utilizadas.
+>>>>>>> 3e109a46ffda49d0fc1a4bcd57cddbe41b4f934e
